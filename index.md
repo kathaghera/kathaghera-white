@@ -6,4 +6,4 @@ description: null
 image: assets/images/banner.jpg
 author: null
 ---
-Test
+Just leave a message, email us or tweet at us, we will get back to you as soon as possible.
