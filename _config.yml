@@ -3,8 +3,8 @@ title: Katha
 subtitle: Ghera
 email: kathaghera@gmail.com
 description: KATHA GHERA IS A SELF SUSTAINING THEATRE COLLECTIVE WITH A DEEP PASSION TOWARDS LISTENING, ENACTING AND WORKING WITH STORIES.
-# baseurl: "" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "/white" # the subpath of your site, e.g. /blog
+# url: "/white/" # the base hostname & protocol for your site
 author: Arogya Koirala
 street_address: Gunakamdev Marg 76
 city: Teku, Kathmandu
