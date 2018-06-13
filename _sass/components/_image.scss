@@ -7,7 +7,7 @@
 /* Image */
 
 img {
-  display: none;
+  // display: none;
 
     max-width: 100%;
 }
@@ -19,8 +19,8 @@ img {
 		position: relative;
 
 		img {
-			display: none;
-      -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+			// display: none;
+      // -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
       }
 
 		&.left,
@@ -50,7 +50,7 @@ img {
 			width: 100%;
 
 			img {
-        display: none;
+        // display: none;
 
 				width: 100%;
 			}
